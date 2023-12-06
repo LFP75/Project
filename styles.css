@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+
+
+}
+
+.heading {
+    background-color: #1F2937;
+    display:flex;
+    justify-content: center;
+    height:150px;
+}
+
+.title {
+    border:1px solid #1F2937;
+    padding:20px;
+    width:900px;
+    height:90px;
+
+
+}
+
+.HeaderLogo {
+    color: #F9FAF8;
+    font-weight: 24px;
+}
+
+.linkone, .linktwo, .linkthree {
+    color:£#E5E7EB;
+    font-weight: 18px;
+}
+
+
+.information{
+    height: 150px;
+}
+
+.quote{
+    height:150px;
+}
+
+.calltoacation{
+    height:100px;
+}
+
+.footer{
+    height:50px;
+}
