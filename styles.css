@@ -6,21 +6,14 @@
   }
   
 
-  .project-container{
+.project-container{
     display:flex;
     flex-direction:column;
    
   }
 
-  .project-container div{
-    flex:1;
-  }
-
-  .project-container .Footer-container{
-    flex:0.25;
-  }
-
-  .Introduction-container{
+ 
+.Introduction-container{
     display: flex;
     background-color: #1F2937;
     padding-left: 100px;
@@ -34,7 +27,7 @@
   }
 
 
-  .signup{
+.signup{
    background-color:#3882f6 ;
    border-radius: 8px  8px 8px 8px;
    padding:3px;
@@ -44,32 +37,35 @@
    margin-bottom: 100px;
   }
 
-  .heading{
+
+.heading{
     color:#f9faf8;
     font-weight: bolder;
     font-size: 48px;
   }
 
-  .subheading{
+
+.subheading{
     color:#e5e7eb;
     font-size:18px;
   }
 
-  .links{
+
+.links{
     display:flex;
     color:#e5e7eb;
     font-size:18px; 
     margin-left: 15px;
   }
 
-  .firstimage{
-    background-color: #1F2937;
-  }
 
-  .secondimage{
+.secondimage{
     margin-top:80px;
     margin-left:70px;
   }
+
+
+
 
 
 
@@ -99,32 +95,13 @@
 
   }
 
- .thirdimage, .fourthimage, .fifthimage, .sixthimage {
-    margin-left: 
- }
-
- .fourthtext, .fifthtext{
-    margin-left:
- }
  
-
- .thirdtext{
-    margin-left:
- }
- .sixthtext{
-    margin-left: 
- }
-
-
-
-
-
-
   
+
+
+
   .Quotes-container{
    background-color: #e5e7eb;
-   
-    
   }
 
   .quote{
@@ -134,8 +111,6 @@
     padding-left: 250px;
     padding-right: 250px;
     margin-top:80px;
-    
-    
     
   }
   
@@ -148,12 +123,18 @@
 
   }
 
+
+
+
+
+
+
 .Register-container{
     display:flex;
     width:900px;
-margin-left: 300px;}
+    margin-left: 300px;}
 
-  .register-one{
+.register-one{
     display:flex;
     background-color: #3882f6;
     padding:30px;
@@ -169,13 +150,11 @@ margin-left: 300px;}
 
 }
 
-
-
-  .register-three{
+.register-three{
    padding-left:120px;
   }
 
-  .signup2{
+.signup2{
    border-radius: 8px  8px 8px 8px;
    padding:3px;
    padding-left:15px;
@@ -184,7 +163,12 @@ margin-left: 300px;}
   }
     
 
-  .Footer-container{
+
+
+
+
+
+.Footer-container{
     background-color: #1f2937;
     color:white;
     display:flex;
