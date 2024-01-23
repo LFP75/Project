@@ -1,4 +1,4 @@
-This is my first project creating an entire web page from scratch (from a design proided).
+This is my first project creating an entire web page from scratch (from a design provided).
 
 Links for images used:
 
